@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+}
+.content{
+  
+
+    color: darkblue;
+}
+
+.time{
+    display: flex;
+    flex-direction: horizontal;
+  
+    align-items: center;
+    justify-content: center;
+}
+.time h2{
+    margin-right: 10px;
+}
+.coordinates{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
